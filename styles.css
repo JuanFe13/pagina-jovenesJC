@@ -6,6 +6,48 @@ header {
     padding: 1rem;
 }
 
+h1#titulo-principal {
+    margin: 20px;
+    font-size: 38px;
+}
+
+h1#titulo-secundario {
+    margin: 20px;
+    font-size: 25px;
+}
+
+
+/* Estilos para la tabla */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #c0ffea;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
 /* Estilos para el párrafo */
 main {
     margin: 20px;
