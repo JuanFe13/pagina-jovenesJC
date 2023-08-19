@@ -1,0 +1,14 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #03fff2;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1rem;
+}
+
+/* Estilos para el párrafo */
+main {
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+}
